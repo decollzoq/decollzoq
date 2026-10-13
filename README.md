@@ -1,18 +1,18 @@
-# 👋 안녕하세요, 프론트엔드 엔지니어 박민선입니다.
+## 프론트엔드 엔지니어 박민선입니다.
 
 단순히 화면을 구현하는 것을 넘어, **서버와 엣지, 네트워크 파이프라인 전반을 분석하여 사용자 화면에 닿기까지의 병목을 해결**하는 데 몰입합니다.  
 브라우저 너머의 인프라 흐름까지 이해하며 서비스의 체감 속도와 완성도를 극대화합니다.
 
----
+<br>
 
-## 🚀 Key Highlights & Numbers
+## 🚀 Key Highlights
 
 - **LCP 대기 시간 89% 단축**: Cloudflare Pages Functions 기반 엣지 HTML 데이터 사전 주입 및 스트리밍 파싱 (530 ~ 710ms → 70~80ms)
 - **SPA 체감 전환 지연 97.9% 단축**: 사용자 인터랙션 기반 백그라운드 프리페칭과 LRU 인메모리 캐싱으로 Soft LCP 최적화 (2.22s → 0.046s)
 - **서버리스 세션 동기화 및 TTFB 72.7% 단축**: Vercel 다중 인스턴스 레이스 컨디션을 Upstash Redis Grace Period 캐싱으로 해결 (86.42ms → 23.57ms)
 - **Next.js SSR 전환을 통한 초기 렌더링 개선**: 경량 HTML 서빙 및 LCP 30% 단축, 첫 진입 스켈레톤 UI 제거
 
----
+<br>
 
 ## 🛠 Tech Stack
 
@@ -44,7 +44,8 @@
   <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white"/>
 </p>
 
----
+
+<br>
 
 ## 📌 Featured Projects
 
@@ -66,8 +67,7 @@
   - React Router 번들 분할 및 상단 요약 데이터 사전 바인딩으로 SPA Soft LCP 97.9% 단축 (2.22s → 0.046s)
   - 마우스 호버/터치 기반 프리페칭과 LRU 인메모리 캐시 파이프라인으로 체감 지연 0ms 구현 및 D1 쿼리 호출 절감
 
----
-
+<br>
 
 ## 🏆 Awards & Activities
 
@@ -75,9 +75,9 @@
 - **2025 국민대학교 캡스톤 디자인 어워드 최우수상** (SignOrder)
 - **국민대학교 소프트웨어전공** (2021.03 - 2027.02 졸업예정)
 
----
+<br>
 
 ## 📬 Contact & Links
 
 - **Email**: decollzoq@gmail.com
-- **Blog**: [SEON Blog](https://seon-log.pages.dev) <!-- 실제 블로그 URL로 확인해 주세요 -->
+- **Blog**: [SEON Blog](https://seon-blog.pages.dev/)
